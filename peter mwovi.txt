@@ -1,0 +1,18 @@
+<span id="a">Peter@Mwovi</span>:<span id="b">~</span><span id="c">$</span> cd Petermwovi/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">Peter@Mwovi</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Peter Mwovi.txt<br/><br/>
+
+Hello There! I am Peter Mwovi.<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br> My favorite code quote, "<span id="k">You Own Your Own (YOYO)</span>". <!-- sjkfhskjf -->
+
+<p>I am currently pursuing my Barchelor's in Computer Science from Masinde Muliro University of Science and Technology</p>
+<p>I love to code, solve interesting programming problems, read fiction and play the guitar sometimes.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>I am a full stack web developer with an emphasis on responsive web design. Practical
+ layouts and smooth UX experiences are very important to me. I create websites that are fast and well optimised. You can learn more about me on my professional <a target="_blank" href="portafolio/index.html"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>One thing that is easily notable about me is that I am always coding or solving 
+ challenges. I love to develop web-apps, browser games and also like solving competitive coding problems<br><br><br>Do you want to see some of my completed projects? <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> You can also visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/peter-mwovi-57141a179/?originalSubdomain=ke">LinkedIn</a> <br> <a href="https://github.com/mwovi">Github</a> <br> <a href="https://twitter.com/mwovi_peter">Twitter</a> and <br> <a href="link3">HackerRank</a>.</p>
+
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="PeterMwovi@student.mmust.ac.ke"> Email</a>.
+
+<p>Cheers!</p>
+<br>
+<span id="a">Peter@Mwovi</span>:<span id="b">~</span><span id="c">$</span>
